@@ -27,7 +27,7 @@ Hi, my name is Tanav!
             height: 100vh;
         }
 
-        /* Modal styling */
+    
         .modal {
             display: none;
             position: fixed;
