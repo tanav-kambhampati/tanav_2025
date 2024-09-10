@@ -182,7 +182,6 @@ Hi, my name is Tanav!
             }
         }
 
-        // Load STL file into viewer using Three.js
         function loadSTL(file) {
             viewer.innerHTML = ''; // Clear any previous render
             var scene = new THREE.Scene();
