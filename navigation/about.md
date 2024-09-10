@@ -100,20 +100,17 @@ permalink: /about/
   </style>
 
 
-  <!-- Header Section -->
   <header>
     Hey! I'm Tanav 🌟
   </header>
 
-  <!-- Introduction Section -->
   <div class="container">
     <section>
       <h2>Who Am I?</h2>
-      <p style="color: black">who i am</p>
+      <p style="color: black">I am an 11th grader that is interested in basketball, engineering, and space</p>
     </section>
   </div>
 
-  <!-- Activities Section -->
   <div class="container">
     <section>
       <h2>What I like</h2>
@@ -134,28 +131,6 @@ permalink: /about/
     </section>
   </div>
 
-  <!-- Goals Section -->
-  <div class="container">
-    <section>
-      <h2>What's Next?</h2>
-      <p style="color: black">I’m always chasing new adventures and trying to figure out what's next. Right now, I’m all about [your current goal or project], and who knows where that’ll take me! 🚀</p>
-    </section>
-  </div>
-
-  <!-- Contact Section -->
-  <div class="container">
-    <section>
-      <h2>Wanna Chat?</h2>
-      <p>Whether it's about [something you're into, e.g., "coding," "rockets," "cats"] or just to say hi, feel free to reach out! You can email me at <a href="mailto:your-email@example.com" class="fun-button">your-email@example.com</a></p>
-    </section>
-  </div>
-
-  <!-- Footer Section -->
-  <footer>
-    © 2024 [Your Name] | Powered by Coffee ☕
-  </footer>
-
-  <!-- JavaScript for Image Click -->
   <script>
     function toggleText(activity) {
       const text = activity.querySelector('.activity-text');
