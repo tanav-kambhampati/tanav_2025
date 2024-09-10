@@ -206,7 +206,6 @@ Hi, my name is Tanav!
             });
         }
 
-        // Add markers for each location
         locations.forEach(function(location) {
             var marker = L.marker(location.coords).addTo(map);
             marker.bindPopup(location.name);
