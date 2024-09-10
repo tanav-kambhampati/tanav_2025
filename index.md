@@ -170,7 +170,6 @@ Hi, my name is Tanav!
         var span = document.getElementsByClassName("close")[0];
         var viewer = document.getElementById("stl-viewer");
 
-        // Close the modal
         span.onclick = function() {
             modal.style.display = "none";
         }
